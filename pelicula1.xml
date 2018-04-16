@@ -4,7 +4,7 @@
 
 <Peliculas>
 	<Pelicula>
-		<caracteristicas_peli tiempo="2" unidades="H" />
+		<caracteristicas_peli tiempo="3" unidades="H" />
 		<titulo>
 			Star Wars
 		</titulo>
